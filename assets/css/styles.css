@@ -1,4 +1,14 @@
 /* styles.css */
+* {
+	font-family: Rubik;
+}
+
+.rubik-<uniquifier>, h1 {
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: 3em;
+}
 .rubik-<uniquifier>, h1 {
   font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
