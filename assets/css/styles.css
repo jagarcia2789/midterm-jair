@@ -2,11 +2,13 @@
 * {
 	font-family: Rubik;
 }
-.rubik-<uniquifier>, h1 {
+
+.rubik-<uniquifier> {
   font-family: "Rubik", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
-  font-style: 3em;
+  font-style: normal;
+}
 	font-size: 150 px;
 	color: Blue;
 }
